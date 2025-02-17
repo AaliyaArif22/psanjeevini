@@ -357,7 +357,7 @@ position: relative;
 .rectangle2 .group-top img {
     margin: 0 10px;
     margin-left: 300px;
-    height: 80%;
+    height: 58px;
 }
 
 .rectangle2 .boxes2 {
@@ -370,7 +370,7 @@ position: relative;
 }
 
 
-.rectangle2 .boxes2 .box-in {
+.rectangle2 .boxes2 .card {
     box-sizing: border-box;
     background: #FFFFFF;
     border: 1.61611px solid rgba(255, 255, 255, 0.5);
@@ -392,7 +392,7 @@ position: relative;
     flex-direction: column;
     gap: 10px;
 }
-.rectangle2 .boxes2 .box-in .button {
+.rectangle2 .boxes2 .card .btn {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -405,6 +405,10 @@ position: relative;
     margin-top: 65px;
     color: white;
     margin-left: -130px;
+}
+.rectangle2 .boxes2 .card.active{
+    border-right: 18px solid #7f3997;
+
 }
  
 /*circle*/ 
