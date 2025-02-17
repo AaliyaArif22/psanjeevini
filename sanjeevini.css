@@ -334,7 +334,7 @@ position: relative;
     align-items: center;
 }
 .rectangle2 .group-top .purple-text{
-    color: #7F3997;
+    color: #914C9C;
     font-weight: bold;
     font-size: 35px;
 
@@ -342,7 +342,7 @@ position: relative;
 .rectangle2 .group-top .btn{
     display: inline-block;
     padding: 10px 20px;
-    background-color: #7f3997;
+    background-color:#914C9C;
     color: white;
     border: none;
     border-radius: 3px;
@@ -407,7 +407,7 @@ position: relative;
     margin-left: -130px;
 }
 .rectangle2 .boxes2 .card.active{
-    border-right: 18px solid #7f3997;
+    border-right: 18px solid #914C9C;
 
 }
  
