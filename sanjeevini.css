@@ -9,7 +9,7 @@ body {
     font-family: cabin;
     color: #ccc;
     background-color: #fefdfe;
-    box-sizing: border-box;
+    box-sizing:content-box;
 }
 
 .header1 {
