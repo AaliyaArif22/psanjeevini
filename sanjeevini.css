@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
-
 * {
     margin: 0;
     padding: 0;
@@ -211,14 +209,15 @@ nav a {
 }
 /* hand */
 
-.second-textual-section .image-part {
+.second-textual-section .image-part4
+{
     width: 40%;
     display: flex;
     align-items: center;
     margin-left: 145px;
     margin-top: 300px;
 }
-.second-textual-section .image-part .text{
+.second-textual-section .image-part4 .text{
     font-size: 40px;
     line-height: 22px;
     color: #dfdbdb; 
@@ -226,11 +225,10 @@ nav a {
     margin-left:-380px;
     margin-top:340px;
 }
-.second-textual-section .image-part {
+.second-textual-section  {
     width: 997px;
     height:380;
     margin-left: 125px;
-    margin-top: 50px;
     background-repeat: no-repeat;
     background-image: url('./asset/Rectangle\ 12.png');
 }
@@ -323,12 +321,15 @@ nav a {
     display:flex;
     justify-content: left;
     align-items: left;
-    padding-top: 50px;
+    padding-top: 60px;
     gap: 610px;
     color: black;
     font-size: 20px;
     margin-left: 0px;
 
+}
+.rectangle2 .group-top .h2{
+    align-items: center;
 }
 .rectangle2 .group-top .purple-text{
     color: #7F3997;
@@ -354,6 +355,7 @@ display:inline-block;
 .rectangle2 .group-top img {
     margin: 0 10px;
     margin-left: 300px;
+    height: 80%;
 }
 
 .rectangle2 .boxes2 {
@@ -433,8 +435,9 @@ display:inline-block;
     display: flex;
     width: 1518px;
     height: 510px;
-   background: linear-gradient(90deg, #743384 0%, #8F3E85 42.5%, #743384 100%);
+   background:#823881;
     color: #ccc;
+    
 }
 .footer .footer-top .img{
     margin: 0 10px;
@@ -455,7 +458,7 @@ display:inline-block;
 .footer .footer-top ul {
     list-style: none;
     display: flex;
-    gap: 30px;
+    gap: 28px;
     font-size: 17px;
 }
 
@@ -471,10 +474,10 @@ display:inline-block;
 
 
 .container {
-    width: 80%;
+    width: 77%;
     margin: auto;
     padding: 20px;
-    background-color:  #8F3E85 ;
+    background-color:   #873987;
     border-radius: 2px;
     margin-top: -420px;
     height: 292px;
@@ -487,10 +490,10 @@ display:inline-block;
     padding: 10px;
     background: white;
     color: black;
-    border-radius: 2px;
-    width: 101%;
+    border-radius: 3px;
+    width: 102%;
     margin-top: -20px;
-    margin-left: -16px;
+    margin-left: -21px;
     height: 70px;
 }
 
@@ -530,9 +533,9 @@ display:inline-block;
 .text {
     list-style: none;
     display: flex;
-    gap: 625px;
+    gap: 580px;
     font-size: 15px;
     color: white;
-    margin-left: 130px;
+    margin-left: 155px;
     margin-top: 30px;
     }
